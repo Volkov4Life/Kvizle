@@ -5,7 +5,7 @@ Zabavna in poučna android aplikacija, ki uči o zgodovini Slovenije, njenih zna
 
 # FUNKCIONALNOSTI
  - igra z radio vprašanji
- - TO DO TO DO
+ - * TO DO TO DO *
  - profil uporabnika
  - nastavitve težavnosti
  - lestvica vodilnih
